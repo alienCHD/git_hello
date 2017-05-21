@@ -2,6 +2,6 @@ package com.chenloveguitar.hellogit;
 
 public class HelloGit {
 	public static void main(String[] args) {
-		System.out.println("hello 你妈蛋");
+		System.out.println("再改我要杀了你");
 	}
 }
